@@ -213,19 +213,7 @@ df_ipca_2026
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -517,12 +505,15 @@ Considerando que a série temporal do índice ibovespa no **sgs** foi interrompi
 ### Estruturamos o projeto
 
 Para transformar a análise em um aplicativo web acessível, utilizamos a biblioteca **Streamlit**. As etapas a seguir envolvem a configuração do ambiente e a reestruturação do código.
+
+```python
 dashboard_indicadores/
 ├── app/
 │   └── pages/
 │       └── dashboard.py
 ├── requirements.txt
 ├── runtime.txt
+```
     
 ### Instalamos as dependências
 
