@@ -529,7 +529,6 @@ plotly==5.18.0
 python-bcb==0.3.3
 lxml==4.9.3
 requests==2.31.0
-```
 
 # Adicione estas linhas para resolver distutils
 setuptools==69.0.3
