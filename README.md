@@ -98,6 +98,7 @@ fig = px.line(df,
 fig.update_layout(hovermode='x unified', xaxis=dict(rangeslider=dict(visible=True)))
 fig.show()
 ```
+![png](output_10_1.png)
 
 **PTAX**
 
