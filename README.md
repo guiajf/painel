@@ -18,10 +18,6 @@ from pandas_market_calendars import get_calendar
 from datetime import datetime, timedelta
 from bcb import sgs
 import sgs
-#from bcb import Expectativas
-#from bcb import currency
-#from bcb import PTAX
-#from bcb import utils
 import plotly.express as px
 import plotly.graph_objects as go
 import ipywidgets as widgets
@@ -123,19 +119,7 @@ ep = ptax.get_endpoint('CotacaoMoedaPeriodo')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
