@@ -826,6 +826,10 @@ if __name__ == "__main__":
     main()
 ```
 
+### Layout
+
+![](painel.png)
+
 ### Considerações finais
 
 O código acima resulta em um painel interativo e auto-atualizável. A seção final detalha o processo de implantação (deploy) na nuvem para torná-lo publicamente acessível.
