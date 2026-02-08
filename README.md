@@ -834,9 +834,7 @@ if __name__ == "__main__":
 
 O código acima resulta em um painel interativo e auto-atualizável. A seção final detalha o processo de implantação (deploy) na nuvem para torná-lo publicamente acessível.
 
-Visualize o painel interativo em:
-
-https://dashboardindicadores.streamlit.app/
+Visualize o painel interativo em: https://dashboardindicadores.streamlit.app/
 
 **Pré-requisitos**
 - Conta no [Streamlit](https://streamlit.io/)
