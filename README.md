@@ -518,6 +518,8 @@ dashboard_indicadores/
 ### Instalamos as dependências
 
 Na raíz do projeto, o arquivo *requirements.txt* deve listar as dependências:
+
+```raw
 # Streamlit Cloud - Python 3.12 Compatible
 streamlit==1.28.0
 yfinance==1.1.0
@@ -527,12 +529,15 @@ plotly==5.18.0
 python-bcb==0.3.3
 lxml==4.9.3
 requests==2.31.0
+```
 
 # Adicione estas linhas para resolver distutils
 setuptools==69.0.3
 wheel==0.42.0
 Opcionalmente, adicione o arquivo *runtime.txt* na raiz do projeto, para especificar a versão do Python compatível com as dependências definidas no arquivo *requirements.txt*.
 python-3.12.0
+```
+
 ### Definimos o motor do projeto
 
 O aquivo *dashboard.py*:
