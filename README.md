@@ -533,7 +533,11 @@ requests==2.31.0
 # Adicione estas linhas para resolver distutils
 setuptools==69.0.3
 wheel==0.42.0
+```
+
 Opcionalmente, adicione o arquivo *runtime.txt* na raiz do projeto, para especificar a versão do Python compatível com as dependências definidas no arquivo *requirements.txt*.
+
+```raw
 python-3.12.0
 ```
 
