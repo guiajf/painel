@@ -836,6 +836,8 @@ O código acima resulta em um painel interativo e auto-atualizável. A seção f
 
 Visualize o painel interativo em: https://dashboardindicadores.streamlit.app/
 
+______________________________________________________________________________________________________________________________________________________
+
 **Pré-requisitos**
 - Conta no [Streamlit](https://streamlit.io/)
 - Conta no GitHub/GitLab (opcional)
