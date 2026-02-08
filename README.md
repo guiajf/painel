@@ -506,7 +506,7 @@ Considerando que a série temporal do índice ibovespa no **sgs** foi interrompi
 
 Para transformar a análise em um aplicativo web acessível, utilizamos a biblioteca **Streamlit**. As etapas a seguir envolvem a configuração do ambiente e a reestruturação do código.
 
-```python
+```raw
 dashboard_indicadores/
 ├── app/
 │   └── pages/
