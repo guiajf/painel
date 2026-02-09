@@ -885,8 +885,3 @@ Quando fizer mudanças no GitHub:
 1. Commit e push para o branch main
 2. **Streamlit Cloud** detecta automaticamente
 3. Faz *redeploy* instatâneo
-
-
-```python
-
-```
