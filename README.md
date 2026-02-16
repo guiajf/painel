@@ -869,7 +869,7 @@ streamlit run arquivo.py --server.port=8501
 
 **Formas de compartilhar:**
 
-1. **Link direto**: https://dashboardindicadores.streamlit.app/
+1. **Link direto**: https://seu-app.streamlit.app/
 2. **QR Code**: Gerar para acesso mobile
 3. **Embed**: Em blogs/sites (se necessário)
 
